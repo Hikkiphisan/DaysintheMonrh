@@ -29,7 +29,7 @@ public class Main {
                 daysinMonth = 30;
                 break;
             case 2:
-                daysinMonth = 28; // Giả định không phải năm nhuận
+                daysinMonth = 28; 
                 break;
             default:
                 daysinMonth = 0;
